@@ -38,9 +38,6 @@ module.exports = {
                 location,
             })
         }
-
-        
-    
         return response.json(dev)
     }
 }
